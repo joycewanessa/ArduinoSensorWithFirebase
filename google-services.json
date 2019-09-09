@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "209921599889",
+    "firebase_url": "https://arduino-35845.firebaseio.com",
+    "project_id": "arduino-35845",
+    "storage_bucket": "arduino-35845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209921599889:android:71c26de167050e52c71230",
+        "android_client_info": {
+          "package_name": "casca.upf.com.homeautomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209921599889-hchqj8538it505a018euqgok7s77dch4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "casca.upf.com.homeautomation",
+            "certificate_hash": "0913c3b337cf2ff11d89eb4aeec15e01544e70f0"
+          }
+        },
+        {
+          "client_id": "209921599889-86p1fkn217efvm9spggvajurkjkk0sml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWmgt2b60u1Ffz-X_aurXQUgYeb3gKjug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209921599889-86p1fkn217efvm9spggvajurkjkk0sml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
